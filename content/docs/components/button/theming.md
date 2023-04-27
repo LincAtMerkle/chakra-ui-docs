@@ -1,7 +1,7 @@
----
+<!-- ---
 id: button
 scope: theming
----
+--- -->
 
 The `Button` component is a single part component. All of the styling is applied
 directly to the `button` element.
