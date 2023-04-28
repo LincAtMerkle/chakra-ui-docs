@@ -1,8 +1,3 @@
-<!-- ---
-id: button
-scope: props
---- -->
-
 ## Props
 
 ### Button Props
