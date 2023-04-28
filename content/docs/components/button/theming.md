@@ -157,5 +157,3 @@ export const buttonTheme = defineStyleConfig({
 // variant and color scheme every time you use a button:
 <Button size="lg" variant="outline" colorScheme="brand">...</Button>
 ```
-
-## Showcase
