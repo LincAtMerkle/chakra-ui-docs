@@ -1,13 +1,3 @@
-<!-- ---
-id: button
-category: form
-title: Button
-package: '@chakra-ui/button'
-description:
-  Button component is used to trigger an action or event, such as submitting a
-  form, opening a Dialog, canceling an action, or performing a delete operation.
---- -->
-
 ## Import
 
 ```js
