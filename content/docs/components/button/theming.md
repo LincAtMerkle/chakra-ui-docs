@@ -159,23 +159,3 @@ export const buttonTheme = defineStyleConfig({
 ```
 
 ## Showcase
-
-import {
-  App,
-  Index,
-  ButtonTheme,
-} from 'configs/sandpack-contents/component-theming/button'
-
-<SandpackEmbed
-  files={{
-    '/theme/components/Button.ts': ButtonTheme,
-    '/App.tsx': App,
-    '/index.tsx': {
-      code: Index,
-      hidden: true,
-    },
-  }}
-  dependencies={{
-    'react-icons': '^4.4.0',
-  }}
-/>
